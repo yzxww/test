@@ -1,9 +1,6 @@
-﻿banana
+banana
 apple
 orange
 lemon
 123321
 456654
-789987
-258852
-
